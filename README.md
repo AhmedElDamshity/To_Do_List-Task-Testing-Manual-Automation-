@@ -71,15 +71,16 @@ The test performs the following actions:
 
 
 📁 todo-list-automation/
-├── src/
-│ └── main/
-│ └── java/
-│ ├── pages/
-│ │ └── TodoPage.java # Page Object for To-Do List
-│ └── tests/
-│ └── TodoListTest.java # Test Class using TestNG
-├── pom.xml # Maven configuration
-├── README.md # Project documentation                          
+
+├── src
+│   └── main
+│       └── java
+│           ├── pages
+│           │   └── TodoPage.java       # Page Object for To-Do List
+│           └── tests
+│               └── TodoListTest.java   # Test Class using TestNG
+├── pom.xml                             # Maven configuration
+├── README.md                           # Project documentation                      
 
 ---
 
