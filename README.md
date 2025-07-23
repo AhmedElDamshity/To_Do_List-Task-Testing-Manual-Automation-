@@ -75,11 +75,11 @@ The test performs the following actions:
 │   └── main/
 │       └── java/
 │           ├── pages/
-│           │   └── TodoPage.java       # Page Object for To-Do List
+│           │   └── TodoPage.java      
 │           └── tests/
-│               └── TodoListTest.java   # Test Class using TestNG
-├── pom.xml                             # Maven configuration
-├── README.md                           # Project documentation
+│               └── TodoListTest.java   
+├── pom.xml                             
+├── README.md                           
 
 ---
 
