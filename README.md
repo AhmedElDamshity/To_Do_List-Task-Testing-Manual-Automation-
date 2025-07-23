@@ -79,8 +79,7 @@ The test performs the following actions:
 │           └── tests/
 │               └── TodoListTest.java   # Test Class using TestNG
 ├── pom.xml                             # Maven configuration
-├── README.md                           # Project documentation
-
+├── README.md                           # Project documentation
 
 ---
 
